@@ -1,0 +1,2 @@
+# centos_node_environment
+インフラ系のリポジトリというのを作ってみたい
